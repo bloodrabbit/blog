@@ -12,11 +12,11 @@ To be able to fully automate your development cycle, specifying certain trigger 
 ##Trigger only for _____________ 🚀
 
 We've separated the Push and Pull Request events, because they simply didn't belong together. They kinda hated each other. So from now on you can trigger events only for Pushes or Pull Requests, if you so choose. For example, this comes in handy when you don't want your builds to pile up for pushing to `feature/` branches, but you'd like to test when that feature is pulled into `develop`.
-You can check out [more use cases](https://bitrise-io.github.io/devcenter/webhooks/trigger-map/#a-very-simple-two-workflow-cicd-setup) on our DevCenter, handy stuff!
+You can check out [more use cases](https://bitrise-io.github.io/devcenter/webhooks/trigger-map/#dont-start-two-builds-for-pull-requests-from-the-same-repository) on our DevCenter, handy stuff!
 
 ##Target & source branch for PRs 🎯
 
-There's also another layer to this change. For Pull Requests, you can specify the target and source branch to have an exact filter for an exact workflow. This can be especially useful for releasing your app to the App Store or Google Play, but you don't want to trigger that workflow any other time.
+There's also another layer to this change. Previously you could only set a pattern for the source branch of Pull Requests. You can now specify the target and source branch to have an exact filter for an exact workflow. You can finally specify a filter for every pull request which targets your `master` branch!
 
 ##Shiny new interface ✨
 
