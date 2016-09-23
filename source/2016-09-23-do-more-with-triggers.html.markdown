@@ -1,6 +1,6 @@
 ---
 title: Do more with triggers ⚡️
-date: 2016-09-21 15:29 UTC
+date: 2016-09-23 16:29 UTC
 tags: features
 authors: Daniel Balla|danielballa@bitrise.io
 ---
