@@ -26,7 +26,7 @@ Bitrise's infrastructure is the heart of our service. Our build machines are hum
 
 - Good English language skills
 - Linux (mainly Ubuntu) and/or MacOS experience
-- Scripting in at least two of these languages: Ruby, Python, Bash, Go
+- Scripting in at least two languages: Ruby, Python, Bash, Go, etc.
 
 ##Big plus if you have experience with:
 
@@ -40,7 +40,7 @@ Bitrise's infrastructure is the heart of our service. Our build machines are hum
 
 ##About Bitrise
 
-Bitrise is a Continuous Integration and Delivery platform focusing on mobile development. We help developers to automate their every-day tasks so they can go back to building great apps and have more time for their ideas. We'd like to create an ecosystem for software developers which they can use to build, test and distribute their apps in a way that it feels natural and fun. We take being open very seriously and we love to automate everything possible.
+Bitrise is a Continuous Integration and Delivery platform focusing on mobile development. We help developers to automate their every-day tasks so they can go back to building great apps and have more time for their ideas. We'd like to create an ecosystem for software developers which they can use to build, test and distribute their apps in a way that it feels natural and fun. We take being open very seriously and we love to automate everything!
 
 ##Why you should join
 
