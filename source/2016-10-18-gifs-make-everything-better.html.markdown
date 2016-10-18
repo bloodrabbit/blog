@@ -7,7 +7,7 @@ authors: Daniel Balla|danielballa@bitrise.io
 
 <iframe src="//giphy.com/embed/3o85xHfFDaq9ltGCOI" width="100%" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Every wanted to add gifs to your build notifications? Well, now you can, thanks to [@Almouro](https://github.com/Almouro)! One laser shark sticker coming up.
+Ever wanted to add gifs to your build notifications? Well, now you can, thanks to [@Almouro](https://github.com/Almouro)! One laser shark sticker coming up.
 
 **The Gifs with Giphy step generates a URL for a random gif from [Giphy](http://giphy.com) and stores it in an environment variable which you can easily use in any upcoming step you might have in your workflow.** Default keywords include `such wow`, `awesome`, `shipit` and my personal favorite, `surprise motherfucker`. You can however specify any keyword your twisted minds come up with. We've tried, and you can get the best, most relevant results with `party hard`. Thank us later.
 
